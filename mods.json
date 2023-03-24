@@ -1,5 +1,10 @@
 {
   "mods": [
-    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/create-1.18.2-0.5.0.e.jar", "name": "Create"}
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/create-1.18.2-0.5.0.e.jar", "name": "Create"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/raw/main/TConstruct-1.18.2-3.6.3.111.jar", "name": "TConstruct"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/raw/main/cc-tweaked-1.18.2-1.101.2.jar", "name": "ComputerCraft"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/raw/main/ironchest-1.18.2-13.2.11.jar", "name": "Iron Chest"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/raw/main/jei-1.18.2-forge-10.2.1.1004.jar", "name": "JEI"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/raw/main/sophisticatedbackpacks-1.19.2-3.18.40.779.jar", "name": "backpacks"}
    ]
 }
