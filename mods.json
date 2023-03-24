@@ -10,6 +10,6 @@
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/journeymap-1.18.2-5.9.4-fabric.jar", "name": "MAPS"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/Mantle-1.18.2-1.9.43.jar", "name": "Deez"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/sophisticatedcore-1.18.2-0.5.32.179.jar", "name": "Deez"},
-    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/flywheel-forge-1.18.2-0.6.8.a.jar", "name": "Sigma balls"}
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/flywheel-forge-1.18.2-0.6.8.jar", "name": "Sigma balls"}
    ]
 }
