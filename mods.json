@@ -5,10 +5,11 @@
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/cc-tweaked-1.18.2-1.101.2.jar", "name": "ComputerCraft"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/ironchest-1.18.2-13.2.11.jar", "name": "Iron Chest"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/jei-1.18.2-forge-10.2.1.1004.jar", "name": "JEI"},
-    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/sophisticatedbackpacks-1.19.2-3.18.40.779.jar", "name": "backpacks"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/sophisticatedbackpacks-1.18.2-3.18.40.773.jar", "name": "backpacks"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/BiomesOPlenty-1.19.4-17.3.0.542.jar", "name": "biOOOOOOmes"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/journeymap-1.18.2-5.9.4-fabric.jar", "name": "MAPS"},
     {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/Mantle-1.18.2-1.9.43.jar", "name": "Deez"},
-    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/sophisticatedcore-1.18.2-0.5.32.179.jar", "name": "Deez"}
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/sophisticatedcore-1.18.2-0.5.32.179.jar", "name": "Deez"},
+    {"mod": "https://raw.githubusercontent.com/pernydev/coolsrv-modpack/main/flywheel-forge-1.18.2-0.6.8.a.jar", "name": "Sigma balls"}
    ]
 }
